@@ -2,29 +2,30 @@
 using System.Collections;
 
 public class Images : MonoBehaviour {
-    //Player Textures
+
     public Texture Jittery;
 
     public Texture Ryyul;
 
-    public Texture Sneaky;
+    public Texture Rory;
 
     public Texture Meteos;
 
+    public Texture Sneaky;
+
     public Texture Yato;
 
-    public Texture Rory;
 
-    //Enemy Textures
     public Texture Atoli;
+
+    public Texture Violet;
 
     public Texture Friv;
 
-    public Texture Loki;
-
     public Texture Savor;
+
+    public Texture Loki;
 
     public Texture Muur;
 
-    public Texture Violet;
 }
